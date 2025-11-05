@@ -1,18 +1,5 @@
 [
   "SP-FoodWall.s4m",
   "SP-FairfaxResidence.s4m",
-  "SP-QwikFuel.s4m",
-  "SP-Abomb.s4m",
-  "SP-VictoryAuto.s4m",
-  "SP-RedLibrary.s4m",
-  "SP-NorthsideVending.s4m",
-  "SP-Duplessis.s4m",
-  "SP-Tenement.s4m",
-  "SP-Hospital.s4m",
-  "SP-Wolcott.s4m",
-  "SP-Hotel.s4m",
-  "SP-Research.s4m",
-  "MP-Courthouse.s4m",
-  "MP-PowerPlant.s4m",
-  "MP-MeatBarn.s4m"
+  "SP-Abomb.s4m"
 ]
